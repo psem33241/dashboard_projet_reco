@@ -160,7 +160,7 @@ st.markdown("""
 
 # Afficher l'image de fond localement  
 # Remplacez 'path/to/your/background_image.jpg' par le chemin de votre image  
-image_path = os.path.join(os.path.dirname(__file__), '/Users/psem/Desktop/final final final/background-pic.avif')
+image_path = os.path.join(os.path.dirname(__file__), './background-pic.avif')
 st.markdown(f"""
     <style>
         .stApp {{
