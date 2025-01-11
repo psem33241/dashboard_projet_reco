@@ -1,1 +1,10 @@
-
+streamlit 
+pandas
+plotly
+PIL
+requests  
+io
+random  
+os
+ast
+base64
